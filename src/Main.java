@@ -7,7 +7,7 @@ public class Main {
         p1.sexo = true;
         p1.hobbies = "Música";
 
-        System.out.println("----Método apresentar----");
+        System.out.println("---- Método apresentar Pessoa ----");
         p1.apresentaPessoa();
     }
 }
