@@ -10,6 +10,7 @@ public class Pessoa {
         System.out.println("Idade: " + idade);
         System.out.println("Sexo: " + sexo);
         System.out.println("Hobbies: " + hobbies);
+
     }
 
 }
